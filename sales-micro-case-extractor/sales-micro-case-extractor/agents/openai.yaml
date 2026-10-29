@@ -1,0 +1,6 @@
+interface:
+  display_name: "销售微案例萃取"
+  short_description: "从邮件与聊天资料中提炼可追溯、可审核的销售微案例知识卡"
+  default_prompt: "Use $sales-micro-case-extractor to extract a reviewable sales micro-case from my customer communications."
+policy:
+  allow_implicit_invocation: true
